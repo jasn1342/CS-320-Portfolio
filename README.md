@@ -1,2 +1,2 @@
-# Grand-Strand-Systems
+# CS-320 Portfolio
 Project for CS-320
